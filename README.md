@@ -1,2 +1,2 @@
 # CCN-fortran-codes
-Fortran codes used developed for teaching purposes.
+Fortran codes developed for teaching purposes.
